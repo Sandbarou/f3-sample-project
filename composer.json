@@ -1,0 +1,12 @@
+{
+    "name": "sand/f3_first",
+    "authors": [
+        {
+            "name": "Sandbarou",
+            "email": "sandbarou@gmail.com"
+        }
+    ],
+    "require": {
+        "bcosca/fatfree-core": "^3.6"
+    }
+}
